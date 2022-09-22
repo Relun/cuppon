@@ -1,0 +1,58 @@
+/* font-family: 'Roboto', sans-serif;
+Light 300
+Medium 500
+● #212529; titulo card
+● #707070; subtitulo card, direcion, precio
+● #F8F9FA o var(--light);
+● #ffffff o var(--white);
+● #28a745 o var(--success);
+ */
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+h5{
+    color: #212529;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+p{
+    color:#707070;
+    font-weight: 300;
+    font-size: 1rem;
+}
+span{
+    color:#28A745;
+    font-weight: 500;
+    font-size: 1.5rem;
+    padding-left: 0.5rem;
+}
+legend{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+ .navbar{
+     background-color: #28A745;
+ }
+
+ .color-green{
+     background: #28A745;
+ }
+
+p{
+    color:#707070;
+    font-weight: 300;
+}
+ .cuppon-hd{
+    width: 12rem;
+    padding: 1rem;
+ }
+ .input-size{
+     width: 15rem;
+ }
+ .cuppon-ft{
+    width: 9rem;
+    padding: 1.5rem;
+    object-fit: contain;
+ }
